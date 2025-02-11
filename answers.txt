@@ -10,3 +10,7 @@ Answer: Data Science could be applied to the medical field. For example, if one 
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Suppose you have made some edits in a branch separate from the main branch. Git merge "joins" the two branches at the end, while git rebasing moves your separate branch to the end of the main branch (and so creates a linear history).
+
+Q4: What are you looking forward to this semester?
+
+Answer: The semester project seems very fun!
